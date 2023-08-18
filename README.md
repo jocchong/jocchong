@@ -12,7 +12,7 @@
 
 * 🧑🏻‍💻 I'm a full stack engineer with an interest in making the web fast and accessible
 * 🦾 Learning how to become more involved in the open source community and contribute to the tools I use daily
-* 👀 ... and I'm currently looking for a full time position!
+* 👀 **... and I'm currently looking for a full time position!**
 
 ## 💻 Languages and Frameworks
 <div>
